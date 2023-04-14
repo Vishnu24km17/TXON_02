@@ -1,4 +1,11 @@
+TXON Internship
 # TXON_02
+
+Task: Build a Chatbot
+
+Language:python
+
+Description:
 A chatbot is an automated program that simulates 
 human conversation through text messages, voice 
 chats, or both.
